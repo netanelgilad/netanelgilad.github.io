@@ -6,4 +6,5 @@ tags: [Netanel, Gilad, Netanel Gilad]
 imagefeature: fourseasons.jpg
 chart: true
 ---
-This is about me!
+
+Write here about me...
