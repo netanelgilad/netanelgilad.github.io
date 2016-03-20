@@ -15,7 +15,7 @@ owner:
   avatar:         netanelgilad.jpeg
   email:          netanelgilad@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        netanelgilad
   facebook:       netanelgilad
